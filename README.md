@@ -3,6 +3,7 @@
 - 🔭 I'm student at Wrocław University of Science and Technology at faculty of Teleinformatics (2nd year)
 - 🌱 Besides studying I'm learning programming on my own
 - 💬 My four main programming languages are Java, SQL, ReactJs and CSS
+- 🥅 My 2022 Goal is to get an internship and maybe even a junior programming job
 - 📫 How to reach me: cdszczesny@gmail.com
 - ⚡ Fun fact: I'm an American Football player
 
