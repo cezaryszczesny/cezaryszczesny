@@ -2,7 +2,7 @@
 
 - 🔭 I'm student at Wrocław University of Science and Technology at faculty of Teleinformatics (2nd year)
 - 🌱 Besides studying I'm learning programming on my own
-- 💬 My  Tech Stack includes Java, SQL, ReactJs and CSS
+- 💬 My  Tech Stack includes Java, SQL, ReactJs and CSS, E2E testing with JS (Puppeteer)
 - 📫 How to reach me: cdszczesny@gmail.com
 - ⚡ Fun fact: I'm an American Football player
 
