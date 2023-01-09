@@ -1,6 +1,6 @@
 ### Hi there, my name is Cezary 👋
 
-- 🔭 I'm student at Wrocław University of Science and Technology at faculty of Teleinformatics (2nd year)
+- 🔭 I'm student at Wrocław University of Science and Technology at faculty of Teleinformatics (3rd year)
 - 🌱 Besides studying I'm learning programming on my own
 - 💬 My  Tech Stack includes Java, SQL, ReactJs and CSS, E2E testing with JS (Puppeteer)
 - 📫 How to reach me: cdszczesny@gmail.com
