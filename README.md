@@ -10,7 +10,7 @@
 
 <img align="left" alt="IntelliJ" width="26px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/idea_icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png)" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
